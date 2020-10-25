@@ -165,8 +165,6 @@ $tweaks = @(
 	"UninstallWorkFolders",       # "InstallWorkFolders",
 	#"InstallLinuxSubsystem",      # "UninstallLinuxSubsystem",
 	# "InstallHyperV",              # "UninstallHyperV",
-	#"SetPhotoViewerAssociation",    # "UnsetPhotoViewerAssociation",
-	#"AddPhotoViewerOpenWith",       # "RemovePhotoViewerOpenWith",
 	#"InstallPDFPrinter"		# "UninstallPDFPrinter",
 	# "UninstallXPSPrinter",          # "InstallXPSPrinter",
 	# "RemoveFaxPrinter",             # "AddFaxPrinter",
